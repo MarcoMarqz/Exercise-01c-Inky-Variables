@@ -34,7 +34,6 @@ VAR torches = 0
 // Two New Variables
 VAR health = 100
 VAR coins = 0
-VAR TakenEast = false
 
 -> memory
 
